@@ -27,6 +27,3 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-
-# Reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-<a href="[(https://www.linkedin.com/in/grazia-bonagura-805854369/)" target="blank">Grazia Bonagura</a>
