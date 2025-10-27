@@ -29,4 +29,4 @@
 
 
 # Reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-<a href="[(https://www.linkedin.com/in/grazia-bonagura-805854369/)](https://www.linkedin.com/in/grazia-bonagura-805854369/)" target="blank">Grazia Bonagura</a>
+<a href="[(https://www.linkedin.com/in/grazia-bonagura-805854369/)" target="blank">Grazia Bonagura</a>
