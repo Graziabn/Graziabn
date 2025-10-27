@@ -29,4 +29,4 @@
 
 
 # Reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/daniele-pio-scaparra-535813369/?lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3bu8dkvragsl6wqhksbxaxhq%3d%3d](https://www.linkedin.com/in/grazia-bonagura-805854369/)" target="blank">Grazia Bonagura</a>
+<a href="[(https://www.linkedin.com/in/grazia-bonagura-805854369/)](https://www.linkedin.com/in/grazia-bonagura-805854369/)" target="blank">Grazia Bonagura</a>
