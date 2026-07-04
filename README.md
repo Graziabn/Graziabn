@@ -2,16 +2,24 @@
 
 I'm a Master's student in Computer Science (**Software Engineering & IT Management curricula**) at University of Salerno, Italy 🇮🇹<br>
 
-## About me...
+<h1 style="color: #b388ff;">About me...</h1>
+
+<hr>
+
+<pre style="color: #b388ff; white-space: pre-wrap;">
 Graziabn = {
-    "interests": {
-        "cs": "a deep dive into the cyber world",
-        "low-poly 3d modeling": "...an evergreen art style ",
-        "music": "exploring genres as a way to discover myself more!",
-        "videogames": "stories and good times that stay with you forever",
-        "art": "in any shape and form",
-    },
+    
+  "interests": {
+    
+    "cs": "a deep dive into the cyber world",
+    "low-poly 3D modeling": "...an evergreen art style",
+    "music": "exploring genres as a way to discover myself more!",
+    "videogames": "stories and good times that stay with you forever",
+    "art": "in any shape and form"
+    
+  }
 }
+</pre>
 
 # </> Tech stack
 
